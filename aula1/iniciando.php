@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <?php
-    $var = 'Leandro';
-?>
+    $nome = 'Leandro';
+    ?>
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Aula 1 - Iniciando</title>
     </head>
     <body>
-        <?= $var; ?>
+        <?= $nome; ?><br>
     </body>
 </html>
